@@ -1,3 +1,0 @@
-/* esm.sh - @dnd-kit/accessibility@3.0.0 */
-import i,{useState as o,useCallback as a}from"/react@18.3.1/es2022/react.mjs";var r={display:"none"};function d({id:e,value:n}){return i.createElement("div",{id:e,style:r},n)}var c={position:"absolute",width:1,height:1,margin:-1,border:0,padding:0,overflow:"hidden",clip:"rect(0 0 0 0)",clipPath:"inset(100%)",whiteSpace:"nowrap"};function l({id:e,announcement:n}){return i.createElement("div",{id:e,style:c,role:"status","aria-live":"assertive","aria-atomic":!0},n)}function m(){let[e,n]=o("");return{announce:a(t=>{t!=null&&n(t)},[]),announcement:e}}export{d as HiddenText,l as LiveRegion,m as useAnnouncement};
-//# sourceMappingURL=accessibility.bundle.mjs.map

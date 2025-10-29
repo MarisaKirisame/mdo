@@ -1,3 +1,0 @@
-/* esm.sh - @dnd-kit/accessibility@3.0.0 */
-import "/react@18.3.1/es2022/react.mjs";
-export * from "/@dnd-kit/accessibility@3.0.0/X-ZHJlYWN0QDE4LjMuMQ/es2022/accessibility.bundle.mjs";
