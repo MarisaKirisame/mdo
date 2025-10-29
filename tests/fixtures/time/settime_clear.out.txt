@@ -1,0 +1,5 @@
+Added 0: Task.
+Set time for 0: Task [2025-12-25].
+Cleared time for 0: Task.
+root, tasks count: 1
+0: Task

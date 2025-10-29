@@ -1,0 +1,5 @@
+add "Task"
+settime 0 daily
+list
+do 0
+list

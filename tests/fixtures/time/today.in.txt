@@ -1,0 +1,7 @@
+add "Today Task"
+settime 0 today
+add "Tomorrow Task"
+settime 1 tomorrow
+add "Overdue Task"
+settime 2 2025-04-19
+today

@@ -1,0 +1,10 @@
+Added 0: Task.
+Set time for 0: Task [2025-04-20] (repeat every 1 day(s)).
+root, tasks count: 1
+0: Task [2025-04-20] (repeat every 1 day(s))
+Done 0: Task [2025-04-20] (repeat every 1 day(s)).
+Rescheduled for 2025-04-21.
+root, tasks count: 1
+0: Task [2025-04-21] (repeat every 1 day(s))
+root, tasks count: 1
+0: Task [2025-04-21] (repeat every 1 day(s))
